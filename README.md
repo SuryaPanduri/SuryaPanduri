@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Surya 👋
 
-<!--
-**SuryaPanduri/SuryaPanduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN Stack developer building scalable SaaS applications and modern web experiences.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
+**Derma SaaS Platform**  
+Clinic management system with booking, analytics & patient workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+React • TypeScript • Firebase • Tailwind • Node.js
+
+## 🌐 Portfolio
+Coming soon…
+
+## 📫 Connect
+LinkedIn: (https://www.linkedin.com/in/suryap2/)
