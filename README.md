@@ -10,7 +10,7 @@ Clinic management system with booking, analytics & patient workflows.
 React • TypeScript • Firebase • Tailwind • Node.js
 
 ## 🌐 Portfolio
-Coming soon…
+suryapanduri.github.io
 
 ## 📫 Connect
 LinkedIn: (https://www.linkedin.com/in/suryap2/)
